@@ -1,0 +1,3477 @@
+{
+  "teacherProfile": {
+    "name": "Nguyễn Thị Minh Vy",
+    "title": "Giáo viên THPT",
+    "school": "Trường THPT số 1 Tuy Phước",
+    "motto": "Cùng AI kiến tạo lớp học hạnh phúc – Cá nhân hóa tri thức, phát triển năng lực.",
+    "avatarUrl": "",
+    "subjects": [
+      "Toán học",
+      "Tin học"
+    ],
+    "assignedClasses": [
+      "10A1",
+      "10A2",
+      "10A11",
+      "11B2",
+      "12A1",
+      "12A8"
+    ],
+    "schoolYear": "2024 - 2025",
+    "bio": "Giáo viên cốt cán đổi mới phương pháp dạy học, tích cực ứng dụng công nghệ và trí tuệ nhân tạo (AI) trong xây dựng kế hoạch bài dạy và cá nhân hóa trải nghiệm học tập theo Chương trình GDPT 2018.",
+    "achievements": [
+      "Giải Nhất Giáo viên dạy giỏi cấp Tỉnh năm học 2023-2024",
+      "Sáng kiến kinh nghiệm xuất sắc: Ứng dụng AI nâng cao năng lực tự học của học sinh THPT",
+      "Bằng khen của Chủ tịch UBND Tỉnh về thành tích đổi mới sáng tạo trong dạy học"
+    ]
+  },
+  "classes": [
+    {
+      "id": "cls-10a1",
+      "name": "Lớp 10A1",
+      "grade": "10",
+      "academicYear": "2024 - 2025",
+      "homeroomTeacher": "Nguyễn Thị Minh Vy",
+      "studentCount": 42,
+      "groups": [
+        "Tổ 1 (Khoa học)",
+        "Tổ 2 (Sáng tạo)",
+        "Tổ 3 (Tiên phong)",
+        "Tổ 4 (Khát vọng)"
+      ],
+      "students": [
+        {
+          "id": "hs-hs101-01",
+          "code": "HS10101",
+          "name": "Nguyễn Văn An",
+          "group": "Tổ 2 (Sáng tạo)",
+          "avgScore": 9.2,
+          "attendance": "93%",
+          "status": "Xuất sắc",
+          "needSupport": false,
+          "notes": "Lớp trưởng 10A1, tư duy toán học logic, năng động"
+        },
+        {
+          "id": "hs-hs101-02",
+          "code": "HS10102",
+          "name": "Trần Thị Mai",
+          "group": "Tổ 3 (Tiên phong)",
+          "avgScore": 9.5,
+          "attendance": "94%",
+          "status": "Xuất sắc",
+          "needSupport": false,
+          "notes": "Nắm vững kiến thức, hỗ trợ các bạn trong tổ rất tốt"
+        },
+        {
+          "id": "hs-hs101-03",
+          "code": "HS10103",
+          "name": "Đặng Hồng Uyên",
+          "group": "Tổ 4 (Khát vọng)",
+          "avgScore": 7.2,
+          "attendance": "95%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs101-04",
+          "code": "HS10104",
+          "name": "Hồ Bảo An",
+          "group": "Tổ 1 (Khoa học)",
+          "avgScore": 8.2,
+          "attendance": "96%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs101-05",
+          "code": "HS10105",
+          "name": "Lý Thị Hạnh",
+          "group": "Tổ 2 (Sáng tạo)",
+          "avgScore": 9.5,
+          "attendance": "97%",
+          "status": "Xuất sắc",
+          "needSupport": false,
+          "notes": "Tư duy logic tốt, tích cực phát biểu xây dựng bài"
+        },
+        {
+          "id": "hs-hs101-06",
+          "code": "HS10106",
+          "name": "Lê Minh Quân",
+          "group": "Tổ 3 (Tiên phong)",
+          "avgScore": 7.5,
+          "attendance": "98%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs101-07",
+          "code": "HS10107",
+          "name": "Huỳnh Quỳnh Uyên",
+          "group": "Tổ 4 (Khát vọng)",
+          "avgScore": 8.5,
+          "attendance": "99%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs101-08",
+          "code": "HS10108",
+          "name": "Võ Tuấn An",
+          "group": "Tổ 1 (Khoa học)",
+          "avgScore": 5.7,
+          "attendance": "92%",
+          "status": "Cần hỗ trợ",
+          "needSupport": true,
+          "notes": "Cần củng cố kỹ năng giải toán vận dụng và trắc nghiệm đúng/sai"
+        },
+        {
+          "id": "hs-hs101-09",
+          "code": "HS10109",
+          "name": "Đỗ Bích Hạnh",
+          "group": "Tổ 2 (Sáng tạo)",
+          "avgScore": 7.9,
+          "attendance": "93%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs101-10",
+          "code": "HS10110",
+          "name": "Dương Văn Quân",
+          "group": "Tổ 3 (Tiên phong)",
+          "avgScore": 9.2,
+          "attendance": "94%",
+          "status": "Xuất sắc",
+          "needSupport": false,
+          "notes": "Tư duy logic tốt, tích cực phát biểu xây dựng bài"
+        },
+        {
+          "id": "hs-hs101-11",
+          "code": "HS10111",
+          "name": "Trần Mai Uyên",
+          "group": "Tổ 4 (Khát vọng)",
+          "avgScore": 7.9,
+          "attendance": "95%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs101-12",
+          "code": "HS10112",
+          "name": "Hoàng Quốc An",
+          "group": "Tổ 1 (Khoa học)",
+          "avgScore": 7,
+          "attendance": "96%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs101-13",
+          "code": "HS10113",
+          "name": "Vũ Hồng Hạnh",
+          "group": "Tổ 2 (Sáng tạo)",
+          "avgScore": 8.1,
+          "attendance": "97%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs101-14",
+          "code": "HS10114",
+          "name": "Bùi Bảo Quân",
+          "group": "Tổ 3 (Tiên phong)",
+          "avgScore": 8.2,
+          "attendance": "98%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs101-15",
+          "code": "HS10115",
+          "name": "Ngô Thị Uyên",
+          "group": "Tổ 4 (Khát vọng)",
+          "avgScore": 7.4,
+          "attendance": "99%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs101-16",
+          "code": "HS10116",
+          "name": "Nguyễn Minh An",
+          "group": "Tổ 1 (Khoa học)",
+          "avgScore": 5.4,
+          "attendance": "92%",
+          "status": "Cần hỗ trợ",
+          "needSupport": true,
+          "notes": "Cần củng cố kỹ năng giải toán vận dụng và trắc nghiệm đúng/sai"
+        },
+        {
+          "id": "hs-hs101-17",
+          "code": "HS10117",
+          "name": "Phạm Quỳnh Hạnh",
+          "group": "Tổ 2 (Sáng tạo)",
+          "avgScore": 8.5,
+          "attendance": "93%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs101-18",
+          "code": "HS10118",
+          "name": "Phan Tuấn Quân",
+          "group": "Tổ 3 (Tiên phong)",
+          "avgScore": 7.8,
+          "attendance": "94%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs101-19",
+          "code": "HS10119",
+          "name": "Đặng Bích Uyên",
+          "group": "Tổ 4 (Khát vọng)",
+          "avgScore": 8.7,
+          "attendance": "95%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs101-20",
+          "code": "HS10120",
+          "name": "Hồ Văn An",
+          "group": "Tổ 1 (Khoa học)",
+          "avgScore": 9.4,
+          "attendance": "96%",
+          "status": "Xuất sắc",
+          "needSupport": false,
+          "notes": "Tư duy logic tốt, tích cực phát biểu xây dựng bài"
+        },
+        {
+          "id": "hs-hs101-21",
+          "code": "HS10121",
+          "name": "Lý Mai Hạnh",
+          "group": "Tổ 2 (Sáng tạo)",
+          "avgScore": 6.9,
+          "attendance": "97%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs101-22",
+          "code": "HS10122",
+          "name": "Lê Quốc Quân",
+          "group": "Tổ 3 (Tiên phong)",
+          "avgScore": 8,
+          "attendance": "98%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs101-23",
+          "code": "HS10123",
+          "name": "Huỳnh Hồng Uyên",
+          "group": "Tổ 4 (Khát vọng)",
+          "avgScore": 8.1,
+          "attendance": "99%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs101-24",
+          "code": "HS10124",
+          "name": "Võ Bảo An",
+          "group": "Tổ 1 (Khoa học)",
+          "avgScore": 5.1,
+          "attendance": "92%",
+          "status": "Cần hỗ trợ",
+          "needSupport": true,
+          "notes": "Cần củng cố kỹ năng giải toán vận dụng và trắc nghiệm đúng/sai"
+        },
+        {
+          "id": "hs-hs101-25",
+          "code": "HS10125",
+          "name": "Đỗ Thị Hạnh",
+          "group": "Tổ 2 (Sáng tạo)",
+          "avgScore": 9.1,
+          "attendance": "93%",
+          "status": "Xuất sắc",
+          "needSupport": false,
+          "notes": "Tư duy logic tốt, tích cực phát biểu xây dựng bài"
+        },
+        {
+          "id": "hs-hs101-26",
+          "code": "HS10126",
+          "name": "Dương Minh Quân",
+          "group": "Tổ 3 (Tiên phong)",
+          "avgScore": 8.4,
+          "attendance": "94%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs101-27",
+          "code": "HS10127",
+          "name": "Trần Quỳnh Uyên",
+          "group": "Tổ 4 (Khát vọng)",
+          "avgScore": 7.6,
+          "attendance": "95%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs101-28",
+          "code": "HS10128",
+          "name": "Hoàng Tuấn An",
+          "group": "Tổ 1 (Khoa học)",
+          "avgScore": 8.6,
+          "attendance": "96%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs101-29",
+          "code": "HS10129",
+          "name": "Vũ Bích Hạnh",
+          "group": "Tổ 2 (Sáng tạo)",
+          "avgScore": 8.7,
+          "attendance": "97%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs101-30",
+          "code": "HS10130",
+          "name": "Bùi Văn Quân",
+          "group": "Tổ 3 (Tiên phong)",
+          "avgScore": 6.8,
+          "attendance": "98%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs101-31",
+          "code": "HS10131",
+          "name": "Ngô Mai Uyên",
+          "group": "Tổ 4 (Khát vọng)",
+          "avgScore": 7.9,
+          "attendance": "99%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs101-32",
+          "code": "HS10132",
+          "name": "Nguyễn Quốc An",
+          "group": "Tổ 1 (Khoa học)",
+          "avgScore": 4.8,
+          "attendance": "92%",
+          "status": "Cần hỗ trợ",
+          "needSupport": true,
+          "notes": "Cần củng cố kỹ năng giải toán vận dụng và trắc nghiệm đúng/sai"
+        },
+        {
+          "id": "hs-hs101-33",
+          "code": "HS10133",
+          "name": "Phạm Hồng Hạnh",
+          "group": "Tổ 2 (Sáng tạo)",
+          "avgScore": 7.2,
+          "attendance": "93%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs101-34",
+          "code": "HS10134",
+          "name": "Phan Bảo Quân",
+          "group": "Tổ 3 (Tiên phong)",
+          "avgScore": 8.2,
+          "attendance": "94%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs101-35",
+          "code": "HS10135",
+          "name": "Đặng Thị Uyên",
+          "group": "Tổ 4 (Khát vọng)",
+          "avgScore": 9.3,
+          "attendance": "95%",
+          "status": "Xuất sắc",
+          "needSupport": false,
+          "notes": "Tư duy logic tốt, tích cực phát biểu xây dựng bài"
+        },
+        {
+          "id": "hs-hs101-36",
+          "code": "HS10136",
+          "name": "Hồ Minh An",
+          "group": "Tổ 1 (Khoa học)",
+          "avgScore": 7.5,
+          "attendance": "96%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs101-37",
+          "code": "HS10137",
+          "name": "Lý Quỳnh Hạnh",
+          "group": "Tổ 2 (Sáng tạo)",
+          "avgScore": 8.5,
+          "attendance": "97%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs101-38",
+          "code": "HS10138",
+          "name": "Lê Tuấn Quân",
+          "group": "Tổ 3 (Tiên phong)",
+          "avgScore": 8.6,
+          "attendance": "98%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs101-39",
+          "code": "HS10139",
+          "name": "Huỳnh Bích Uyên",
+          "group": "Tổ 4 (Khát vọng)",
+          "avgScore": 7.9,
+          "attendance": "99%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs101-40",
+          "code": "HS10140",
+          "name": "Võ Văn An",
+          "group": "Tổ 1 (Khoa học)",
+          "avgScore": 4.5,
+          "attendance": "92%",
+          "status": "Cần hỗ trợ",
+          "needSupport": true,
+          "notes": "Cần củng cố kỹ năng giải toán vận dụng và trắc nghiệm đúng/sai"
+        },
+        {
+          "id": "hs-hs101-41",
+          "code": "HS10141",
+          "name": "Đỗ Mai Hạnh",
+          "group": "Tổ 2 (Sáng tạo)",
+          "avgScore": 7.9,
+          "attendance": "93%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs101-42",
+          "code": "HS10142",
+          "name": "Dương Quốc Quân",
+          "group": "Tổ 3 (Tiên phong)",
+          "avgScore": 7,
+          "attendance": "94%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        }
+      ]
+    },
+    {
+      "id": "cls-10a2",
+      "name": "Lớp 10A2",
+      "grade": "10",
+      "academicYear": "2024 - 2025",
+      "homeroomTeacher": "Nguyễn Thị Minh Vy",
+      "studentCount": 50,
+      "groups": [
+        "Tổ 1 (Khám phá)",
+        "Tổ 2 (Đổi mới)",
+        "Tổ 3 (Hành động)",
+        "Tổ 4 (Vươn xa)"
+      ],
+      "students": [
+        {
+          "id": "hs-hs102-01",
+          "code": "HS10201",
+          "name": "Trương Gia Bảo",
+          "group": "Tổ 2 (Đổi mới)",
+          "avgScore": 9.3,
+          "attendance": "93%",
+          "status": "Xuất sắc",
+          "needSupport": false,
+          "notes": "Lớp trưởng 10A2, gương mẫu, hỗ trợ giáo viên điều phối tổ tốt"
+        },
+        {
+          "id": "hs-hs102-02",
+          "code": "HS10202",
+          "name": "Phan Quốc Quân",
+          "group": "Tổ 3 (Hành động)",
+          "avgScore": 8,
+          "attendance": "94%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs102-03",
+          "code": "HS10203",
+          "name": "Đặng Hồng Uyên",
+          "group": "Tổ 4 (Vươn xa)",
+          "avgScore": 7.2,
+          "attendance": "95%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs102-04",
+          "code": "HS10204",
+          "name": "Hồ Bảo An",
+          "group": "Tổ 1 (Khám phá)",
+          "avgScore": 8.2,
+          "attendance": "96%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs102-05",
+          "code": "HS10205",
+          "name": "Lý Thị Hạnh",
+          "group": "Tổ 2 (Đổi mới)",
+          "avgScore": 9.5,
+          "attendance": "97%",
+          "status": "Xuất sắc",
+          "needSupport": false,
+          "notes": "Tư duy logic tốt, tích cực phát biểu xây dựng bài"
+        },
+        {
+          "id": "hs-hs102-06",
+          "code": "HS10206",
+          "name": "Lê Minh Quân",
+          "group": "Tổ 3 (Hành động)",
+          "avgScore": 7.5,
+          "attendance": "98%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs102-07",
+          "code": "HS10207",
+          "name": "Huỳnh Quỳnh Uyên",
+          "group": "Tổ 4 (Vươn xa)",
+          "avgScore": 8.5,
+          "attendance": "99%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs102-08",
+          "code": "HS10208",
+          "name": "Võ Tuấn An",
+          "group": "Tổ 1 (Khám phá)",
+          "avgScore": 5.7,
+          "attendance": "92%",
+          "status": "Cần hỗ trợ",
+          "needSupport": true,
+          "notes": "Cần củng cố kỹ năng giải toán vận dụng và trắc nghiệm đúng/sai"
+        },
+        {
+          "id": "hs-hs102-09",
+          "code": "HS10209",
+          "name": "Đỗ Bích Hạnh",
+          "group": "Tổ 2 (Đổi mới)",
+          "avgScore": 7.9,
+          "attendance": "93%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs102-10",
+          "code": "HS10210",
+          "name": "Dương Văn Quân",
+          "group": "Tổ 3 (Hành động)",
+          "avgScore": 9.2,
+          "attendance": "94%",
+          "status": "Xuất sắc",
+          "needSupport": false,
+          "notes": "Tư duy logic tốt, tích cực phát biểu xây dựng bài"
+        },
+        {
+          "id": "hs-hs102-11",
+          "code": "HS10211",
+          "name": "Trần Mai Uyên",
+          "group": "Tổ 4 (Vươn xa)",
+          "avgScore": 7.9,
+          "attendance": "95%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs102-12",
+          "code": "HS10212",
+          "name": "Hoàng Quốc An",
+          "group": "Tổ 1 (Khám phá)",
+          "avgScore": 7,
+          "attendance": "96%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs102-13",
+          "code": "HS10213",
+          "name": "Vũ Hồng Hạnh",
+          "group": "Tổ 2 (Đổi mới)",
+          "avgScore": 8.1,
+          "attendance": "97%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs102-14",
+          "code": "HS10214",
+          "name": "Bùi Bảo Quân",
+          "group": "Tổ 3 (Hành động)",
+          "avgScore": 8.2,
+          "attendance": "98%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs102-15",
+          "code": "HS10215",
+          "name": "Ngô Thị Uyên",
+          "group": "Tổ 4 (Vươn xa)",
+          "avgScore": 7.4,
+          "attendance": "99%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs102-16",
+          "code": "HS10216",
+          "name": "Nguyễn Minh An",
+          "group": "Tổ 1 (Khám phá)",
+          "avgScore": 5.4,
+          "attendance": "92%",
+          "status": "Cần hỗ trợ",
+          "needSupport": true,
+          "notes": "Cần củng cố kỹ năng giải toán vận dụng và trắc nghiệm đúng/sai"
+        },
+        {
+          "id": "hs-hs102-17",
+          "code": "HS10217",
+          "name": "Phạm Quỳnh Hạnh",
+          "group": "Tổ 2 (Đổi mới)",
+          "avgScore": 8.5,
+          "attendance": "93%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs102-18",
+          "code": "HS10218",
+          "name": "Phan Tuấn Quân",
+          "group": "Tổ 3 (Hành động)",
+          "avgScore": 7.8,
+          "attendance": "94%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs102-19",
+          "code": "HS10219",
+          "name": "Đặng Bích Uyên",
+          "group": "Tổ 4 (Vươn xa)",
+          "avgScore": 8.7,
+          "attendance": "95%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs102-20",
+          "code": "HS10220",
+          "name": "Hồ Văn An",
+          "group": "Tổ 1 (Khám phá)",
+          "avgScore": 9.4,
+          "attendance": "96%",
+          "status": "Xuất sắc",
+          "needSupport": false,
+          "notes": "Tư duy logic tốt, tích cực phát biểu xây dựng bài"
+        },
+        {
+          "id": "hs-hs102-21",
+          "code": "HS10221",
+          "name": "Lý Mai Hạnh",
+          "group": "Tổ 2 (Đổi mới)",
+          "avgScore": 6.9,
+          "attendance": "97%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs102-22",
+          "code": "HS10222",
+          "name": "Lê Quốc Quân",
+          "group": "Tổ 3 (Hành động)",
+          "avgScore": 8,
+          "attendance": "98%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs102-23",
+          "code": "HS10223",
+          "name": "Huỳnh Hồng Uyên",
+          "group": "Tổ 4 (Vươn xa)",
+          "avgScore": 8.1,
+          "attendance": "99%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs102-24",
+          "code": "HS10224",
+          "name": "Võ Bảo An",
+          "group": "Tổ 1 (Khám phá)",
+          "avgScore": 5.1,
+          "attendance": "92%",
+          "status": "Cần hỗ trợ",
+          "needSupport": true,
+          "notes": "Cần củng cố kỹ năng giải toán vận dụng và trắc nghiệm đúng/sai"
+        },
+        {
+          "id": "hs-hs102-25",
+          "code": "HS10225",
+          "name": "Đỗ Thị Hạnh",
+          "group": "Tổ 2 (Đổi mới)",
+          "avgScore": 9.1,
+          "attendance": "93%",
+          "status": "Xuất sắc",
+          "needSupport": false,
+          "notes": "Tư duy logic tốt, tích cực phát biểu xây dựng bài"
+        },
+        {
+          "id": "hs-hs102-26",
+          "code": "HS10226",
+          "name": "Dương Minh Quân",
+          "group": "Tổ 3 (Hành động)",
+          "avgScore": 8.4,
+          "attendance": "94%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs102-27",
+          "code": "HS10227",
+          "name": "Trần Quỳnh Uyên",
+          "group": "Tổ 4 (Vươn xa)",
+          "avgScore": 7.6,
+          "attendance": "95%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs102-28",
+          "code": "HS10228",
+          "name": "Hoàng Tuấn An",
+          "group": "Tổ 1 (Khám phá)",
+          "avgScore": 8.6,
+          "attendance": "96%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs102-29",
+          "code": "HS10229",
+          "name": "Vũ Bích Hạnh",
+          "group": "Tổ 2 (Đổi mới)",
+          "avgScore": 8.7,
+          "attendance": "97%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs102-30",
+          "code": "HS10230",
+          "name": "Bùi Văn Quân",
+          "group": "Tổ 3 (Hành động)",
+          "avgScore": 6.8,
+          "attendance": "98%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs102-31",
+          "code": "HS10231",
+          "name": "Ngô Mai Uyên",
+          "group": "Tổ 4 (Vươn xa)",
+          "avgScore": 7.9,
+          "attendance": "99%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs102-32",
+          "code": "HS10232",
+          "name": "Nguyễn Quốc An",
+          "group": "Tổ 1 (Khám phá)",
+          "avgScore": 4.8,
+          "attendance": "92%",
+          "status": "Cần hỗ trợ",
+          "needSupport": true,
+          "notes": "Cần củng cố kỹ năng giải toán vận dụng và trắc nghiệm đúng/sai"
+        },
+        {
+          "id": "hs-hs102-33",
+          "code": "HS10233",
+          "name": "Phạm Hồng Hạnh",
+          "group": "Tổ 2 (Đổi mới)",
+          "avgScore": 7.2,
+          "attendance": "93%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs102-34",
+          "code": "HS10234",
+          "name": "Phan Bảo Quân",
+          "group": "Tổ 3 (Hành động)",
+          "avgScore": 8.2,
+          "attendance": "94%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs102-35",
+          "code": "HS10235",
+          "name": "Đặng Thị Uyên",
+          "group": "Tổ 4 (Vươn xa)",
+          "avgScore": 9.3,
+          "attendance": "95%",
+          "status": "Xuất sắc",
+          "needSupport": false,
+          "notes": "Tư duy logic tốt, tích cực phát biểu xây dựng bài"
+        },
+        {
+          "id": "hs-hs102-36",
+          "code": "HS10236",
+          "name": "Hồ Minh An",
+          "group": "Tổ 1 (Khám phá)",
+          "avgScore": 7.5,
+          "attendance": "96%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs102-37",
+          "code": "HS10237",
+          "name": "Lý Quỳnh Hạnh",
+          "group": "Tổ 2 (Đổi mới)",
+          "avgScore": 8.5,
+          "attendance": "97%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs102-38",
+          "code": "HS10238",
+          "name": "Lê Tuấn Quân",
+          "group": "Tổ 3 (Hành động)",
+          "avgScore": 8.6,
+          "attendance": "98%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs102-39",
+          "code": "HS10239",
+          "name": "Huỳnh Bích Uyên",
+          "group": "Tổ 4 (Vươn xa)",
+          "avgScore": 7.9,
+          "attendance": "99%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs102-40",
+          "code": "HS10240",
+          "name": "Võ Văn An",
+          "group": "Tổ 1 (Khám phá)",
+          "avgScore": 4.5,
+          "attendance": "92%",
+          "status": "Cần hỗ trợ",
+          "needSupport": true,
+          "notes": "Cần củng cố kỹ năng giải toán vận dụng và trắc nghiệm đúng/sai"
+        },
+        {
+          "id": "hs-hs102-41",
+          "code": "HS10241",
+          "name": "Đỗ Mai Hạnh",
+          "group": "Tổ 2 (Đổi mới)",
+          "avgScore": 7.9,
+          "attendance": "93%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs102-42",
+          "code": "HS10242",
+          "name": "Dương Quốc Quân",
+          "group": "Tổ 3 (Hành động)",
+          "avgScore": 7,
+          "attendance": "94%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs102-43",
+          "code": "HS10243",
+          "name": "Trần Hồng Uyên",
+          "group": "Tổ 4 (Vươn xa)",
+          "avgScore": 8.1,
+          "attendance": "95%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs102-44",
+          "code": "HS10244",
+          "name": "Hoàng Bảo An",
+          "group": "Tổ 1 (Khám phá)",
+          "avgScore": 8.2,
+          "attendance": "96%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs102-45",
+          "code": "HS10245",
+          "name": "Vũ Thị Hạnh",
+          "group": "Tổ 2 (Đổi mới)",
+          "avgScore": 7.4,
+          "attendance": "97%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs102-46",
+          "code": "HS10246",
+          "name": "Bùi Minh Quân",
+          "group": "Tổ 3 (Hành động)",
+          "avgScore": 8.4,
+          "attendance": "98%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs102-47",
+          "code": "HS10247",
+          "name": "Ngô Quỳnh Uyên",
+          "group": "Tổ 4 (Vươn xa)",
+          "avgScore": 8.5,
+          "attendance": "99%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs102-48",
+          "code": "HS10248",
+          "name": "Nguyễn Tuấn An",
+          "group": "Tổ 1 (Khám phá)",
+          "avgScore": 5.7,
+          "attendance": "92%",
+          "status": "Cần hỗ trợ",
+          "needSupport": true,
+          "notes": "Cần củng cố kỹ năng giải toán vận dụng và trắc nghiệm đúng/sai"
+        },
+        {
+          "id": "hs-hs102-49",
+          "code": "HS10249",
+          "name": "Phạm Bích Hạnh",
+          "group": "Tổ 2 (Đổi mới)",
+          "avgScore": 8.7,
+          "attendance": "93%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs102-50",
+          "code": "HS10250",
+          "name": "Phan Văn Quân",
+          "group": "Tổ 3 (Hành động)",
+          "avgScore": 9.2,
+          "attendance": "94%",
+          "status": "Xuất sắc",
+          "needSupport": false,
+          "notes": "Tư duy logic tốt, tích cực phát biểu xây dựng bài"
+        }
+      ]
+    },
+    {
+      "id": "cls-10a11",
+      "name": "Lớp 10A11",
+      "grade": "10",
+      "academicYear": "2024 - 2025",
+      "homeroomTeacher": "Nguyễn Thị Minh Vy",
+      "studentCount": 41,
+      "groups": [
+        "Tổ 1 (Khát vọng)",
+        "Tổ 2 (Tự lực)",
+        "Tổ 3 (Kiên định)",
+        "Tổ 4 (Hội nhập)"
+      ],
+      "students": [
+        {
+          "id": "hs-hs1011-01",
+          "code": "HS101101",
+          "name": "Lâm Quốc Thắng",
+          "group": "Tổ 2 (Tự lực)",
+          "avgScore": 9.1,
+          "attendance": "93%",
+          "status": "Xuất sắc",
+          "needSupport": false,
+          "notes": "Lớp trưởng 10A11, chăm chỉ, năng nổ tham gia trò chơi số hóa"
+        },
+        {
+          "id": "hs-hs1011-02",
+          "code": "HS101102",
+          "name": "Phan Quốc Quân",
+          "group": "Tổ 3 (Kiên định)",
+          "avgScore": 8,
+          "attendance": "94%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs1011-03",
+          "code": "HS101103",
+          "name": "Đặng Hồng Uyên",
+          "group": "Tổ 4 (Hội nhập)",
+          "avgScore": 7.2,
+          "attendance": "95%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs1011-04",
+          "code": "HS101104",
+          "name": "Hồ Bảo An",
+          "group": "Tổ 1 (Khát vọng)",
+          "avgScore": 8.2,
+          "attendance": "96%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs1011-05",
+          "code": "HS101105",
+          "name": "Lý Thị Hạnh",
+          "group": "Tổ 2 (Tự lực)",
+          "avgScore": 9.5,
+          "attendance": "97%",
+          "status": "Xuất sắc",
+          "needSupport": false,
+          "notes": "Tư duy logic tốt, tích cực phát biểu xây dựng bài"
+        },
+        {
+          "id": "hs-hs1011-06",
+          "code": "HS101106",
+          "name": "Lê Minh Quân",
+          "group": "Tổ 3 (Kiên định)",
+          "avgScore": 7.5,
+          "attendance": "98%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs1011-07",
+          "code": "HS101107",
+          "name": "Huỳnh Quỳnh Uyên",
+          "group": "Tổ 4 (Hội nhập)",
+          "avgScore": 8.5,
+          "attendance": "99%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs1011-08",
+          "code": "HS101108",
+          "name": "Võ Tuấn An",
+          "group": "Tổ 1 (Khát vọng)",
+          "avgScore": 5.7,
+          "attendance": "92%",
+          "status": "Cần hỗ trợ",
+          "needSupport": true,
+          "notes": "Cần củng cố kỹ năng giải toán vận dụng và trắc nghiệm đúng/sai"
+        },
+        {
+          "id": "hs-hs1011-09",
+          "code": "HS101109",
+          "name": "Đỗ Bích Hạnh",
+          "group": "Tổ 2 (Tự lực)",
+          "avgScore": 7.9,
+          "attendance": "93%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs1011-10",
+          "code": "HS101110",
+          "name": "Dương Văn Quân",
+          "group": "Tổ 3 (Kiên định)",
+          "avgScore": 9.2,
+          "attendance": "94%",
+          "status": "Xuất sắc",
+          "needSupport": false,
+          "notes": "Tư duy logic tốt, tích cực phát biểu xây dựng bài"
+        },
+        {
+          "id": "hs-hs1011-11",
+          "code": "HS101111",
+          "name": "Trần Mai Uyên",
+          "group": "Tổ 4 (Hội nhập)",
+          "avgScore": 7.9,
+          "attendance": "95%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs1011-12",
+          "code": "HS101112",
+          "name": "Hoàng Quốc An",
+          "group": "Tổ 1 (Khát vọng)",
+          "avgScore": 7,
+          "attendance": "96%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs1011-13",
+          "code": "HS101113",
+          "name": "Vũ Hồng Hạnh",
+          "group": "Tổ 2 (Tự lực)",
+          "avgScore": 8.1,
+          "attendance": "97%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs1011-14",
+          "code": "HS101114",
+          "name": "Bùi Bảo Quân",
+          "group": "Tổ 3 (Kiên định)",
+          "avgScore": 8.2,
+          "attendance": "98%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs1011-15",
+          "code": "HS101115",
+          "name": "Ngô Thị Uyên",
+          "group": "Tổ 4 (Hội nhập)",
+          "avgScore": 7.4,
+          "attendance": "99%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs1011-16",
+          "code": "HS101116",
+          "name": "Nguyễn Minh An",
+          "group": "Tổ 1 (Khát vọng)",
+          "avgScore": 5.4,
+          "attendance": "92%",
+          "status": "Cần hỗ trợ",
+          "needSupport": true,
+          "notes": "Cần củng cố kỹ năng giải toán vận dụng và trắc nghiệm đúng/sai"
+        },
+        {
+          "id": "hs-hs1011-17",
+          "code": "HS101117",
+          "name": "Phạm Quỳnh Hạnh",
+          "group": "Tổ 2 (Tự lực)",
+          "avgScore": 8.5,
+          "attendance": "93%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs1011-18",
+          "code": "HS101118",
+          "name": "Phan Tuấn Quân",
+          "group": "Tổ 3 (Kiên định)",
+          "avgScore": 7.8,
+          "attendance": "94%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs1011-19",
+          "code": "HS101119",
+          "name": "Đặng Bích Uyên",
+          "group": "Tổ 4 (Hội nhập)",
+          "avgScore": 8.7,
+          "attendance": "95%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs1011-20",
+          "code": "HS101120",
+          "name": "Hồ Văn An",
+          "group": "Tổ 1 (Khát vọng)",
+          "avgScore": 9.4,
+          "attendance": "96%",
+          "status": "Xuất sắc",
+          "needSupport": false,
+          "notes": "Tư duy logic tốt, tích cực phát biểu xây dựng bài"
+        },
+        {
+          "id": "hs-hs1011-21",
+          "code": "HS101121",
+          "name": "Lý Mai Hạnh",
+          "group": "Tổ 2 (Tự lực)",
+          "avgScore": 6.9,
+          "attendance": "97%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs1011-22",
+          "code": "HS101122",
+          "name": "Lê Quốc Quân",
+          "group": "Tổ 3 (Kiên định)",
+          "avgScore": 8,
+          "attendance": "98%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs1011-23",
+          "code": "HS101123",
+          "name": "Huỳnh Hồng Uyên",
+          "group": "Tổ 4 (Hội nhập)",
+          "avgScore": 8.1,
+          "attendance": "99%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs1011-24",
+          "code": "HS101124",
+          "name": "Võ Bảo An",
+          "group": "Tổ 1 (Khát vọng)",
+          "avgScore": 5.1,
+          "attendance": "92%",
+          "status": "Cần hỗ trợ",
+          "needSupport": true,
+          "notes": "Cần củng cố kỹ năng giải toán vận dụng và trắc nghiệm đúng/sai"
+        },
+        {
+          "id": "hs-hs1011-25",
+          "code": "HS101125",
+          "name": "Đỗ Thị Hạnh",
+          "group": "Tổ 2 (Tự lực)",
+          "avgScore": 9.1,
+          "attendance": "93%",
+          "status": "Xuất sắc",
+          "needSupport": false,
+          "notes": "Tư duy logic tốt, tích cực phát biểu xây dựng bài"
+        },
+        {
+          "id": "hs-hs1011-26",
+          "code": "HS101126",
+          "name": "Dương Minh Quân",
+          "group": "Tổ 3 (Kiên định)",
+          "avgScore": 8.4,
+          "attendance": "94%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs1011-27",
+          "code": "HS101127",
+          "name": "Trần Quỳnh Uyên",
+          "group": "Tổ 4 (Hội nhập)",
+          "avgScore": 7.6,
+          "attendance": "95%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs1011-28",
+          "code": "HS101128",
+          "name": "Hoàng Tuấn An",
+          "group": "Tổ 1 (Khát vọng)",
+          "avgScore": 8.6,
+          "attendance": "96%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs1011-29",
+          "code": "HS101129",
+          "name": "Vũ Bích Hạnh",
+          "group": "Tổ 2 (Tự lực)",
+          "avgScore": 8.7,
+          "attendance": "97%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs1011-30",
+          "code": "HS101130",
+          "name": "Bùi Văn Quân",
+          "group": "Tổ 3 (Kiên định)",
+          "avgScore": 6.8,
+          "attendance": "98%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs1011-31",
+          "code": "HS101131",
+          "name": "Ngô Mai Uyên",
+          "group": "Tổ 4 (Hội nhập)",
+          "avgScore": 7.9,
+          "attendance": "99%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs1011-32",
+          "code": "HS101132",
+          "name": "Nguyễn Quốc An",
+          "group": "Tổ 1 (Khát vọng)",
+          "avgScore": 4.8,
+          "attendance": "92%",
+          "status": "Cần hỗ trợ",
+          "needSupport": true,
+          "notes": "Cần củng cố kỹ năng giải toán vận dụng và trắc nghiệm đúng/sai"
+        },
+        {
+          "id": "hs-hs1011-33",
+          "code": "HS101133",
+          "name": "Phạm Hồng Hạnh",
+          "group": "Tổ 2 (Tự lực)",
+          "avgScore": 7.2,
+          "attendance": "93%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs1011-34",
+          "code": "HS101134",
+          "name": "Phan Bảo Quân",
+          "group": "Tổ 3 (Kiên định)",
+          "avgScore": 8.2,
+          "attendance": "94%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs1011-35",
+          "code": "HS101135",
+          "name": "Đặng Thị Uyên",
+          "group": "Tổ 4 (Hội nhập)",
+          "avgScore": 9.3,
+          "attendance": "95%",
+          "status": "Xuất sắc",
+          "needSupport": false,
+          "notes": "Tư duy logic tốt, tích cực phát biểu xây dựng bài"
+        },
+        {
+          "id": "hs-hs1011-36",
+          "code": "HS101136",
+          "name": "Hồ Minh An",
+          "group": "Tổ 1 (Khát vọng)",
+          "avgScore": 7.5,
+          "attendance": "96%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs1011-37",
+          "code": "HS101137",
+          "name": "Lý Quỳnh Hạnh",
+          "group": "Tổ 2 (Tự lực)",
+          "avgScore": 8.5,
+          "attendance": "97%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs1011-38",
+          "code": "HS101138",
+          "name": "Lê Tuấn Quân",
+          "group": "Tổ 3 (Kiên định)",
+          "avgScore": 8.6,
+          "attendance": "98%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs1011-39",
+          "code": "HS101139",
+          "name": "Huỳnh Bích Uyên",
+          "group": "Tổ 4 (Hội nhập)",
+          "avgScore": 7.9,
+          "attendance": "99%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs1011-40",
+          "code": "HS101140",
+          "name": "Võ Văn An",
+          "group": "Tổ 1 (Khát vọng)",
+          "avgScore": 4.5,
+          "attendance": "92%",
+          "status": "Cần hỗ trợ",
+          "needSupport": true,
+          "notes": "Cần củng cố kỹ năng giải toán vận dụng và trắc nghiệm đúng/sai"
+        },
+        {
+          "id": "hs-hs1011-41",
+          "code": "HS101141",
+          "name": "Đỗ Mai Hạnh",
+          "group": "Tổ 2 (Tự lực)",
+          "avgScore": 7.9,
+          "attendance": "93%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        }
+      ]
+    },
+    {
+      "id": "cls-11b2",
+      "name": "Lớp 11B2",
+      "grade": "11",
+      "academicYear": "2024 - 2025",
+      "homeroomTeacher": "Nguyễn Thị Minh Vy",
+      "studentCount": 39,
+      "groups": [
+        "Tổ 1",
+        "Tổ 2",
+        "Tổ 3",
+        "Tổ 4"
+      ],
+      "students": [
+        {
+          "id": "hs-hs112-01",
+          "code": "HS11201",
+          "name": "Đặng Quốc Huy",
+          "group": "Tổ 2",
+          "avgScore": 8.8,
+          "attendance": "93%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Lớp trưởng 11B2, chủ động trong giờ học, giải toán tốt"
+        },
+        {
+          "id": "hs-hs112-02",
+          "code": "HS11202",
+          "name": "Phan Quốc Quân",
+          "group": "Tổ 3",
+          "avgScore": 8,
+          "attendance": "94%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs112-03",
+          "code": "HS11203",
+          "name": "Đặng Hồng Uyên",
+          "group": "Tổ 4",
+          "avgScore": 7.2,
+          "attendance": "95%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs112-04",
+          "code": "HS11204",
+          "name": "Hồ Bảo An",
+          "group": "Tổ 1",
+          "avgScore": 8.2,
+          "attendance": "96%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs112-05",
+          "code": "HS11205",
+          "name": "Lý Thị Hạnh",
+          "group": "Tổ 2",
+          "avgScore": 9.5,
+          "attendance": "97%",
+          "status": "Xuất sắc",
+          "needSupport": false,
+          "notes": "Tư duy logic tốt, tích cực phát biểu xây dựng bài"
+        },
+        {
+          "id": "hs-hs112-06",
+          "code": "HS11206",
+          "name": "Lê Minh Quân",
+          "group": "Tổ 3",
+          "avgScore": 7.5,
+          "attendance": "98%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs112-07",
+          "code": "HS11207",
+          "name": "Huỳnh Quỳnh Uyên",
+          "group": "Tổ 4",
+          "avgScore": 8.5,
+          "attendance": "99%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs112-08",
+          "code": "HS11208",
+          "name": "Võ Tuấn An",
+          "group": "Tổ 1",
+          "avgScore": 5.7,
+          "attendance": "92%",
+          "status": "Cần hỗ trợ",
+          "needSupport": true,
+          "notes": "Cần củng cố kỹ năng giải toán vận dụng và trắc nghiệm đúng/sai"
+        },
+        {
+          "id": "hs-hs112-09",
+          "code": "HS11209",
+          "name": "Đỗ Bích Hạnh",
+          "group": "Tổ 2",
+          "avgScore": 7.9,
+          "attendance": "93%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs112-10",
+          "code": "HS11210",
+          "name": "Dương Văn Quân",
+          "group": "Tổ 3",
+          "avgScore": 9.2,
+          "attendance": "94%",
+          "status": "Xuất sắc",
+          "needSupport": false,
+          "notes": "Tư duy logic tốt, tích cực phát biểu xây dựng bài"
+        },
+        {
+          "id": "hs-hs112-11",
+          "code": "HS11211",
+          "name": "Trần Mai Uyên",
+          "group": "Tổ 4",
+          "avgScore": 7.9,
+          "attendance": "95%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs112-12",
+          "code": "HS11212",
+          "name": "Hoàng Quốc An",
+          "group": "Tổ 1",
+          "avgScore": 7,
+          "attendance": "96%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs112-13",
+          "code": "HS11213",
+          "name": "Vũ Hồng Hạnh",
+          "group": "Tổ 2",
+          "avgScore": 8.1,
+          "attendance": "97%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs112-14",
+          "code": "HS11214",
+          "name": "Bùi Bảo Quân",
+          "group": "Tổ 3",
+          "avgScore": 8.2,
+          "attendance": "98%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs112-15",
+          "code": "HS11215",
+          "name": "Ngô Thị Uyên",
+          "group": "Tổ 4",
+          "avgScore": 7.4,
+          "attendance": "99%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs112-16",
+          "code": "HS11216",
+          "name": "Nguyễn Minh An",
+          "group": "Tổ 1",
+          "avgScore": 5.4,
+          "attendance": "92%",
+          "status": "Cần hỗ trợ",
+          "needSupport": true,
+          "notes": "Cần củng cố kỹ năng giải toán vận dụng và trắc nghiệm đúng/sai"
+        },
+        {
+          "id": "hs-hs112-17",
+          "code": "HS11217",
+          "name": "Phạm Quỳnh Hạnh",
+          "group": "Tổ 2",
+          "avgScore": 8.5,
+          "attendance": "93%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs112-18",
+          "code": "HS11218",
+          "name": "Phan Tuấn Quân",
+          "group": "Tổ 3",
+          "avgScore": 7.8,
+          "attendance": "94%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs112-19",
+          "code": "HS11219",
+          "name": "Đặng Bích Uyên",
+          "group": "Tổ 4",
+          "avgScore": 8.7,
+          "attendance": "95%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs112-20",
+          "code": "HS11220",
+          "name": "Hồ Văn An",
+          "group": "Tổ 1",
+          "avgScore": 9.4,
+          "attendance": "96%",
+          "status": "Xuất sắc",
+          "needSupport": false,
+          "notes": "Tư duy logic tốt, tích cực phát biểu xây dựng bài"
+        },
+        {
+          "id": "hs-hs112-21",
+          "code": "HS11221",
+          "name": "Lý Mai Hạnh",
+          "group": "Tổ 2",
+          "avgScore": 6.9,
+          "attendance": "97%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs112-22",
+          "code": "HS11222",
+          "name": "Lê Quốc Quân",
+          "group": "Tổ 3",
+          "avgScore": 8,
+          "attendance": "98%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs112-23",
+          "code": "HS11223",
+          "name": "Huỳnh Hồng Uyên",
+          "group": "Tổ 4",
+          "avgScore": 8.1,
+          "attendance": "99%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs112-24",
+          "code": "HS11224",
+          "name": "Võ Bảo An",
+          "group": "Tổ 1",
+          "avgScore": 5.1,
+          "attendance": "92%",
+          "status": "Cần hỗ trợ",
+          "needSupport": true,
+          "notes": "Cần củng cố kỹ năng giải toán vận dụng và trắc nghiệm đúng/sai"
+        },
+        {
+          "id": "hs-hs112-25",
+          "code": "HS11225",
+          "name": "Đỗ Thị Hạnh",
+          "group": "Tổ 2",
+          "avgScore": 9.1,
+          "attendance": "93%",
+          "status": "Xuất sắc",
+          "needSupport": false,
+          "notes": "Tư duy logic tốt, tích cực phát biểu xây dựng bài"
+        },
+        {
+          "id": "hs-hs112-26",
+          "code": "HS11226",
+          "name": "Dương Minh Quân",
+          "group": "Tổ 3",
+          "avgScore": 8.4,
+          "attendance": "94%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs112-27",
+          "code": "HS11227",
+          "name": "Trần Quỳnh Uyên",
+          "group": "Tổ 4",
+          "avgScore": 7.6,
+          "attendance": "95%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs112-28",
+          "code": "HS11228",
+          "name": "Hoàng Tuấn An",
+          "group": "Tổ 1",
+          "avgScore": 8.6,
+          "attendance": "96%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs112-29",
+          "code": "HS11229",
+          "name": "Vũ Bích Hạnh",
+          "group": "Tổ 2",
+          "avgScore": 8.7,
+          "attendance": "97%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs112-30",
+          "code": "HS11230",
+          "name": "Bùi Văn Quân",
+          "group": "Tổ 3",
+          "avgScore": 6.8,
+          "attendance": "98%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs112-31",
+          "code": "HS11231",
+          "name": "Ngô Mai Uyên",
+          "group": "Tổ 4",
+          "avgScore": 7.9,
+          "attendance": "99%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs112-32",
+          "code": "HS11232",
+          "name": "Nguyễn Quốc An",
+          "group": "Tổ 1",
+          "avgScore": 4.8,
+          "attendance": "92%",
+          "status": "Cần hỗ trợ",
+          "needSupport": true,
+          "notes": "Cần củng cố kỹ năng giải toán vận dụng và trắc nghiệm đúng/sai"
+        },
+        {
+          "id": "hs-hs112-33",
+          "code": "HS11233",
+          "name": "Phạm Hồng Hạnh",
+          "group": "Tổ 2",
+          "avgScore": 7.2,
+          "attendance": "93%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs112-34",
+          "code": "HS11234",
+          "name": "Phan Bảo Quân",
+          "group": "Tổ 3",
+          "avgScore": 8.2,
+          "attendance": "94%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs112-35",
+          "code": "HS11235",
+          "name": "Đặng Thị Uyên",
+          "group": "Tổ 4",
+          "avgScore": 9.3,
+          "attendance": "95%",
+          "status": "Xuất sắc",
+          "needSupport": false,
+          "notes": "Tư duy logic tốt, tích cực phát biểu xây dựng bài"
+        },
+        {
+          "id": "hs-hs112-36",
+          "code": "HS11236",
+          "name": "Hồ Minh An",
+          "group": "Tổ 1",
+          "avgScore": 7.5,
+          "attendance": "96%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs112-37",
+          "code": "HS11237",
+          "name": "Lý Quỳnh Hạnh",
+          "group": "Tổ 2",
+          "avgScore": 8.5,
+          "attendance": "97%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs112-38",
+          "code": "HS11238",
+          "name": "Lê Tuấn Quân",
+          "group": "Tổ 3",
+          "avgScore": 8.6,
+          "attendance": "98%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs112-39",
+          "code": "HS11239",
+          "name": "Huỳnh Bích Uyên",
+          "group": "Tổ 4",
+          "avgScore": 7.9,
+          "attendance": "99%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        }
+      ]
+    },
+    {
+      "id": "cls-12a1",
+      "name": "Lớp 12A1",
+      "grade": "12",
+      "academicYear": "2024 - 2025",
+      "homeroomTeacher": "Nguyễn Thị Minh Vy",
+      "studentCount": 44,
+      "groups": [
+        "Nhóm Ôn ĐGNL",
+        "Nhóm Tốt Nghiệp A",
+        "Nhóm Tốt Nghiệp B",
+        "Nhóm Tự Chọn"
+      ],
+      "students": [
+        {
+          "id": "hs-hs121-01",
+          "code": "HS12101",
+          "name": "Hoàng Anh Tuấn",
+          "group": "Nhóm Tốt Nghiệp A",
+          "avgScore": 9.6,
+          "attendance": "93%",
+          "status": "Xuất sắc",
+          "needSupport": false,
+          "notes": "Lớp trưởng 12A1, mục tiêu thủ khoa ĐGNL, kỹ năng tự học cao"
+        },
+        {
+          "id": "hs-hs121-02",
+          "code": "HS12102",
+          "name": "Phan Quốc Quân",
+          "group": "Nhóm Tốt Nghiệp B",
+          "avgScore": 8,
+          "attendance": "94%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs121-03",
+          "code": "HS12103",
+          "name": "Đặng Hồng Uyên",
+          "group": "Nhóm Tự Chọn",
+          "avgScore": 7.2,
+          "attendance": "95%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs121-04",
+          "code": "HS12104",
+          "name": "Hồ Bảo An",
+          "group": "Nhóm Ôn ĐGNL",
+          "avgScore": 8.2,
+          "attendance": "96%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs121-05",
+          "code": "HS12105",
+          "name": "Lý Thị Hạnh",
+          "group": "Nhóm Tốt Nghiệp A",
+          "avgScore": 9.5,
+          "attendance": "97%",
+          "status": "Xuất sắc",
+          "needSupport": false,
+          "notes": "Tư duy logic tốt, tích cực phát biểu xây dựng bài"
+        },
+        {
+          "id": "hs-hs121-06",
+          "code": "HS12106",
+          "name": "Lê Minh Quân",
+          "group": "Nhóm Tốt Nghiệp B",
+          "avgScore": 7.5,
+          "attendance": "98%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs121-07",
+          "code": "HS12107",
+          "name": "Huỳnh Quỳnh Uyên",
+          "group": "Nhóm Tự Chọn",
+          "avgScore": 8.5,
+          "attendance": "99%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs121-08",
+          "code": "HS12108",
+          "name": "Võ Tuấn An",
+          "group": "Nhóm Ôn ĐGNL",
+          "avgScore": 5.7,
+          "attendance": "92%",
+          "status": "Cần hỗ trợ",
+          "needSupport": true,
+          "notes": "Cần củng cố kỹ năng giải toán vận dụng và trắc nghiệm đúng/sai"
+        },
+        {
+          "id": "hs-hs121-09",
+          "code": "HS12109",
+          "name": "Đỗ Bích Hạnh",
+          "group": "Nhóm Tốt Nghiệp A",
+          "avgScore": 7.9,
+          "attendance": "93%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs121-10",
+          "code": "HS12110",
+          "name": "Dương Văn Quân",
+          "group": "Nhóm Tốt Nghiệp B",
+          "avgScore": 9.2,
+          "attendance": "94%",
+          "status": "Xuất sắc",
+          "needSupport": false,
+          "notes": "Tư duy logic tốt, tích cực phát biểu xây dựng bài"
+        },
+        {
+          "id": "hs-hs121-11",
+          "code": "HS12111",
+          "name": "Trần Mai Uyên",
+          "group": "Nhóm Tự Chọn",
+          "avgScore": 7.9,
+          "attendance": "95%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs121-12",
+          "code": "HS12112",
+          "name": "Hoàng Quốc An",
+          "group": "Nhóm Ôn ĐGNL",
+          "avgScore": 7,
+          "attendance": "96%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs121-13",
+          "code": "HS12113",
+          "name": "Vũ Hồng Hạnh",
+          "group": "Nhóm Tốt Nghiệp A",
+          "avgScore": 8.1,
+          "attendance": "97%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs121-14",
+          "code": "HS12114",
+          "name": "Bùi Bảo Quân",
+          "group": "Nhóm Tốt Nghiệp B",
+          "avgScore": 8.2,
+          "attendance": "98%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs121-15",
+          "code": "HS12115",
+          "name": "Ngô Thị Uyên",
+          "group": "Nhóm Tự Chọn",
+          "avgScore": 7.4,
+          "attendance": "99%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs121-16",
+          "code": "HS12116",
+          "name": "Nguyễn Minh An",
+          "group": "Nhóm Ôn ĐGNL",
+          "avgScore": 5.4,
+          "attendance": "92%",
+          "status": "Cần hỗ trợ",
+          "needSupport": true,
+          "notes": "Cần củng cố kỹ năng giải toán vận dụng và trắc nghiệm đúng/sai"
+        },
+        {
+          "id": "hs-hs121-17",
+          "code": "HS12117",
+          "name": "Phạm Quỳnh Hạnh",
+          "group": "Nhóm Tốt Nghiệp A",
+          "avgScore": 8.5,
+          "attendance": "93%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs121-18",
+          "code": "HS12118",
+          "name": "Phan Tuấn Quân",
+          "group": "Nhóm Tốt Nghiệp B",
+          "avgScore": 7.8,
+          "attendance": "94%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs121-19",
+          "code": "HS12119",
+          "name": "Đặng Bích Uyên",
+          "group": "Nhóm Tự Chọn",
+          "avgScore": 8.7,
+          "attendance": "95%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs121-20",
+          "code": "HS12120",
+          "name": "Hồ Văn An",
+          "group": "Nhóm Ôn ĐGNL",
+          "avgScore": 9.4,
+          "attendance": "96%",
+          "status": "Xuất sắc",
+          "needSupport": false,
+          "notes": "Tư duy logic tốt, tích cực phát biểu xây dựng bài"
+        },
+        {
+          "id": "hs-hs121-21",
+          "code": "HS12121",
+          "name": "Lý Mai Hạnh",
+          "group": "Nhóm Tốt Nghiệp A",
+          "avgScore": 6.9,
+          "attendance": "97%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs121-22",
+          "code": "HS12122",
+          "name": "Lê Quốc Quân",
+          "group": "Nhóm Tốt Nghiệp B",
+          "avgScore": 8,
+          "attendance": "98%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs121-23",
+          "code": "HS12123",
+          "name": "Huỳnh Hồng Uyên",
+          "group": "Nhóm Tự Chọn",
+          "avgScore": 8.1,
+          "attendance": "99%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs121-24",
+          "code": "HS12124",
+          "name": "Võ Bảo An",
+          "group": "Nhóm Ôn ĐGNL",
+          "avgScore": 5.1,
+          "attendance": "92%",
+          "status": "Cần hỗ trợ",
+          "needSupport": true,
+          "notes": "Cần củng cố kỹ năng giải toán vận dụng và trắc nghiệm đúng/sai"
+        },
+        {
+          "id": "hs-hs121-25",
+          "code": "HS12125",
+          "name": "Đỗ Thị Hạnh",
+          "group": "Nhóm Tốt Nghiệp A",
+          "avgScore": 9.1,
+          "attendance": "93%",
+          "status": "Xuất sắc",
+          "needSupport": false,
+          "notes": "Tư duy logic tốt, tích cực phát biểu xây dựng bài"
+        },
+        {
+          "id": "hs-hs121-26",
+          "code": "HS12126",
+          "name": "Dương Minh Quân",
+          "group": "Nhóm Tốt Nghiệp B",
+          "avgScore": 8.4,
+          "attendance": "94%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs121-27",
+          "code": "HS12127",
+          "name": "Trần Quỳnh Uyên",
+          "group": "Nhóm Tự Chọn",
+          "avgScore": 7.6,
+          "attendance": "95%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs121-28",
+          "code": "HS12128",
+          "name": "Hoàng Tuấn An",
+          "group": "Nhóm Ôn ĐGNL",
+          "avgScore": 8.6,
+          "attendance": "96%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs121-29",
+          "code": "HS12129",
+          "name": "Vũ Bích Hạnh",
+          "group": "Nhóm Tốt Nghiệp A",
+          "avgScore": 8.7,
+          "attendance": "97%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs121-30",
+          "code": "HS12130",
+          "name": "Bùi Văn Quân",
+          "group": "Nhóm Tốt Nghiệp B",
+          "avgScore": 6.8,
+          "attendance": "98%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs121-31",
+          "code": "HS12131",
+          "name": "Ngô Mai Uyên",
+          "group": "Nhóm Tự Chọn",
+          "avgScore": 7.9,
+          "attendance": "99%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs121-32",
+          "code": "HS12132",
+          "name": "Nguyễn Quốc An",
+          "group": "Nhóm Ôn ĐGNL",
+          "avgScore": 4.8,
+          "attendance": "92%",
+          "status": "Cần hỗ trợ",
+          "needSupport": true,
+          "notes": "Cần củng cố kỹ năng giải toán vận dụng và trắc nghiệm đúng/sai"
+        },
+        {
+          "id": "hs-hs121-33",
+          "code": "HS12133",
+          "name": "Phạm Hồng Hạnh",
+          "group": "Nhóm Tốt Nghiệp A",
+          "avgScore": 7.2,
+          "attendance": "93%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs121-34",
+          "code": "HS12134",
+          "name": "Phan Bảo Quân",
+          "group": "Nhóm Tốt Nghiệp B",
+          "avgScore": 8.2,
+          "attendance": "94%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs121-35",
+          "code": "HS12135",
+          "name": "Đặng Thị Uyên",
+          "group": "Nhóm Tự Chọn",
+          "avgScore": 9.3,
+          "attendance": "95%",
+          "status": "Xuất sắc",
+          "needSupport": false,
+          "notes": "Tư duy logic tốt, tích cực phát biểu xây dựng bài"
+        },
+        {
+          "id": "hs-hs121-36",
+          "code": "HS12136",
+          "name": "Hồ Minh An",
+          "group": "Nhóm Ôn ĐGNL",
+          "avgScore": 7.5,
+          "attendance": "96%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs121-37",
+          "code": "HS12137",
+          "name": "Lý Quỳnh Hạnh",
+          "group": "Nhóm Tốt Nghiệp A",
+          "avgScore": 8.5,
+          "attendance": "97%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs121-38",
+          "code": "HS12138",
+          "name": "Lê Tuấn Quân",
+          "group": "Nhóm Tốt Nghiệp B",
+          "avgScore": 8.6,
+          "attendance": "98%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs121-39",
+          "code": "HS12139",
+          "name": "Huỳnh Bích Uyên",
+          "group": "Nhóm Tự Chọn",
+          "avgScore": 7.9,
+          "attendance": "99%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs121-40",
+          "code": "HS12140",
+          "name": "Võ Văn An",
+          "group": "Nhóm Ôn ĐGNL",
+          "avgScore": 4.5,
+          "attendance": "92%",
+          "status": "Cần hỗ trợ",
+          "needSupport": true,
+          "notes": "Cần củng cố kỹ năng giải toán vận dụng và trắc nghiệm đúng/sai"
+        },
+        {
+          "id": "hs-hs121-41",
+          "code": "HS12141",
+          "name": "Đỗ Mai Hạnh",
+          "group": "Nhóm Tốt Nghiệp A",
+          "avgScore": 7.9,
+          "attendance": "93%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs121-42",
+          "code": "HS12142",
+          "name": "Dương Quốc Quân",
+          "group": "Nhóm Tốt Nghiệp B",
+          "avgScore": 7,
+          "attendance": "94%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs121-43",
+          "code": "HS12143",
+          "name": "Trần Hồng Uyên",
+          "group": "Nhóm Tự Chọn",
+          "avgScore": 8.1,
+          "attendance": "95%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs121-44",
+          "code": "HS12144",
+          "name": "Hoàng Bảo An",
+          "group": "Nhóm Ôn ĐGNL",
+          "avgScore": 8.2,
+          "attendance": "96%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        }
+      ]
+    },
+    {
+      "id": "cls-12a8",
+      "name": "Lớp 12A8",
+      "grade": "12",
+      "academicYear": "2024 - 2025",
+      "homeroomTeacher": "Nguyễn Thị Minh Vy",
+      "studentCount": 42,
+      "groups": [
+        "Tổ 1 (Mục tiêu Khối A)",
+        "Tổ 2 (Mục tiêu Khối A1)",
+        "Tổ 3 (Mục tiêu Khối D)",
+        "Tổ 4 (Đánh giá năng lực)"
+      ],
+      "students": [
+        {
+          "id": "hs-hs128-01",
+          "code": "HS12801",
+          "name": "Phan Nhật Huy",
+          "group": "Tổ 2 (Mục tiêu Khối A1)",
+          "avgScore": 9.5,
+          "attendance": "93%",
+          "status": "Xuất sắc",
+          "needSupport": false,
+          "notes": "Lớp trưởng 12A8, mục tiêu ĐH Bách Khoa, nắm chắc kiến thức 12"
+        },
+        {
+          "id": "hs-hs128-02",
+          "code": "HS12802",
+          "name": "Phan Quốc Quân",
+          "group": "Tổ 3 (Mục tiêu Khối D)",
+          "avgScore": 8,
+          "attendance": "94%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs128-03",
+          "code": "HS12803",
+          "name": "Đặng Hồng Uyên",
+          "group": "Tổ 4 (Đánh giá năng lực)",
+          "avgScore": 7.2,
+          "attendance": "95%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs128-04",
+          "code": "HS12804",
+          "name": "Hồ Bảo An",
+          "group": "Tổ 1 (Mục tiêu Khối A)",
+          "avgScore": 8.2,
+          "attendance": "96%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs128-05",
+          "code": "HS12805",
+          "name": "Lý Thị Hạnh",
+          "group": "Tổ 2 (Mục tiêu Khối A1)",
+          "avgScore": 9.5,
+          "attendance": "97%",
+          "status": "Xuất sắc",
+          "needSupport": false,
+          "notes": "Tư duy logic tốt, tích cực phát biểu xây dựng bài"
+        },
+        {
+          "id": "hs-hs128-06",
+          "code": "HS12806",
+          "name": "Lê Minh Quân",
+          "group": "Tổ 3 (Mục tiêu Khối D)",
+          "avgScore": 7.5,
+          "attendance": "98%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs128-07",
+          "code": "HS12807",
+          "name": "Huỳnh Quỳnh Uyên",
+          "group": "Tổ 4 (Đánh giá năng lực)",
+          "avgScore": 8.5,
+          "attendance": "99%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs128-08",
+          "code": "HS12808",
+          "name": "Võ Tuấn An",
+          "group": "Tổ 1 (Mục tiêu Khối A)",
+          "avgScore": 5.7,
+          "attendance": "92%",
+          "status": "Cần hỗ trợ",
+          "needSupport": true,
+          "notes": "Cần củng cố kỹ năng giải toán vận dụng và trắc nghiệm đúng/sai"
+        },
+        {
+          "id": "hs-hs128-09",
+          "code": "HS12809",
+          "name": "Đỗ Bích Hạnh",
+          "group": "Tổ 2 (Mục tiêu Khối A1)",
+          "avgScore": 7.9,
+          "attendance": "93%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs128-10",
+          "code": "HS12810",
+          "name": "Dương Văn Quân",
+          "group": "Tổ 3 (Mục tiêu Khối D)",
+          "avgScore": 9.2,
+          "attendance": "94%",
+          "status": "Xuất sắc",
+          "needSupport": false,
+          "notes": "Tư duy logic tốt, tích cực phát biểu xây dựng bài"
+        },
+        {
+          "id": "hs-hs128-11",
+          "code": "HS12811",
+          "name": "Trần Mai Uyên",
+          "group": "Tổ 4 (Đánh giá năng lực)",
+          "avgScore": 7.9,
+          "attendance": "95%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs128-12",
+          "code": "HS12812",
+          "name": "Hoàng Quốc An",
+          "group": "Tổ 1 (Mục tiêu Khối A)",
+          "avgScore": 7,
+          "attendance": "96%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs128-13",
+          "code": "HS12813",
+          "name": "Vũ Hồng Hạnh",
+          "group": "Tổ 2 (Mục tiêu Khối A1)",
+          "avgScore": 8.1,
+          "attendance": "97%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs128-14",
+          "code": "HS12814",
+          "name": "Bùi Bảo Quân",
+          "group": "Tổ 3 (Mục tiêu Khối D)",
+          "avgScore": 8.2,
+          "attendance": "98%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs128-15",
+          "code": "HS12815",
+          "name": "Ngô Thị Uyên",
+          "group": "Tổ 4 (Đánh giá năng lực)",
+          "avgScore": 7.4,
+          "attendance": "99%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs128-16",
+          "code": "HS12816",
+          "name": "Nguyễn Minh An",
+          "group": "Tổ 1 (Mục tiêu Khối A)",
+          "avgScore": 5.4,
+          "attendance": "92%",
+          "status": "Cần hỗ trợ",
+          "needSupport": true,
+          "notes": "Cần củng cố kỹ năng giải toán vận dụng và trắc nghiệm đúng/sai"
+        },
+        {
+          "id": "hs-hs128-17",
+          "code": "HS12817",
+          "name": "Phạm Quỳnh Hạnh",
+          "group": "Tổ 2 (Mục tiêu Khối A1)",
+          "avgScore": 8.5,
+          "attendance": "93%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs128-18",
+          "code": "HS12818",
+          "name": "Phan Tuấn Quân",
+          "group": "Tổ 3 (Mục tiêu Khối D)",
+          "avgScore": 7.8,
+          "attendance": "94%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs128-19",
+          "code": "HS12819",
+          "name": "Đặng Bích Uyên",
+          "group": "Tổ 4 (Đánh giá năng lực)",
+          "avgScore": 8.7,
+          "attendance": "95%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs128-20",
+          "code": "HS12820",
+          "name": "Hồ Văn An",
+          "group": "Tổ 1 (Mục tiêu Khối A)",
+          "avgScore": 9.4,
+          "attendance": "96%",
+          "status": "Xuất sắc",
+          "needSupport": false,
+          "notes": "Tư duy logic tốt, tích cực phát biểu xây dựng bài"
+        },
+        {
+          "id": "hs-hs128-21",
+          "code": "HS12821",
+          "name": "Lý Mai Hạnh",
+          "group": "Tổ 2 (Mục tiêu Khối A1)",
+          "avgScore": 6.9,
+          "attendance": "97%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs128-22",
+          "code": "HS12822",
+          "name": "Lê Quốc Quân",
+          "group": "Tổ 3 (Mục tiêu Khối D)",
+          "avgScore": 8,
+          "attendance": "98%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs128-23",
+          "code": "HS12823",
+          "name": "Huỳnh Hồng Uyên",
+          "group": "Tổ 4 (Đánh giá năng lực)",
+          "avgScore": 8.1,
+          "attendance": "99%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs128-24",
+          "code": "HS12824",
+          "name": "Võ Bảo An",
+          "group": "Tổ 1 (Mục tiêu Khối A)",
+          "avgScore": 5.1,
+          "attendance": "92%",
+          "status": "Cần hỗ trợ",
+          "needSupport": true,
+          "notes": "Cần củng cố kỹ năng giải toán vận dụng và trắc nghiệm đúng/sai"
+        },
+        {
+          "id": "hs-hs128-25",
+          "code": "HS12825",
+          "name": "Đỗ Thị Hạnh",
+          "group": "Tổ 2 (Mục tiêu Khối A1)",
+          "avgScore": 9.1,
+          "attendance": "93%",
+          "status": "Xuất sắc",
+          "needSupport": false,
+          "notes": "Tư duy logic tốt, tích cực phát biểu xây dựng bài"
+        },
+        {
+          "id": "hs-hs128-26",
+          "code": "HS12826",
+          "name": "Dương Minh Quân",
+          "group": "Tổ 3 (Mục tiêu Khối D)",
+          "avgScore": 8.4,
+          "attendance": "94%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs128-27",
+          "code": "HS12827",
+          "name": "Trần Quỳnh Uyên",
+          "group": "Tổ 4 (Đánh giá năng lực)",
+          "avgScore": 7.6,
+          "attendance": "95%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs128-28",
+          "code": "HS12828",
+          "name": "Hoàng Tuấn An",
+          "group": "Tổ 1 (Mục tiêu Khối A)",
+          "avgScore": 8.6,
+          "attendance": "96%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs128-29",
+          "code": "HS12829",
+          "name": "Vũ Bích Hạnh",
+          "group": "Tổ 2 (Mục tiêu Khối A1)",
+          "avgScore": 8.7,
+          "attendance": "97%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs128-30",
+          "code": "HS12830",
+          "name": "Bùi Văn Quân",
+          "group": "Tổ 3 (Mục tiêu Khối D)",
+          "avgScore": 6.8,
+          "attendance": "98%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs128-31",
+          "code": "HS12831",
+          "name": "Ngô Mai Uyên",
+          "group": "Tổ 4 (Đánh giá năng lực)",
+          "avgScore": 7.9,
+          "attendance": "99%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs128-32",
+          "code": "HS12832",
+          "name": "Nguyễn Quốc An",
+          "group": "Tổ 1 (Mục tiêu Khối A)",
+          "avgScore": 4.8,
+          "attendance": "92%",
+          "status": "Cần hỗ trợ",
+          "needSupport": true,
+          "notes": "Cần củng cố kỹ năng giải toán vận dụng và trắc nghiệm đúng/sai"
+        },
+        {
+          "id": "hs-hs128-33",
+          "code": "HS12833",
+          "name": "Phạm Hồng Hạnh",
+          "group": "Tổ 2 (Mục tiêu Khối A1)",
+          "avgScore": 7.2,
+          "attendance": "93%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs128-34",
+          "code": "HS12834",
+          "name": "Phan Bảo Quân",
+          "group": "Tổ 3 (Mục tiêu Khối D)",
+          "avgScore": 8.2,
+          "attendance": "94%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs128-35",
+          "code": "HS12835",
+          "name": "Đặng Thị Uyên",
+          "group": "Tổ 4 (Đánh giá năng lực)",
+          "avgScore": 9.3,
+          "attendance": "95%",
+          "status": "Xuất sắc",
+          "needSupport": false,
+          "notes": "Tư duy logic tốt, tích cực phát biểu xây dựng bài"
+        },
+        {
+          "id": "hs-hs128-36",
+          "code": "HS12836",
+          "name": "Hồ Minh An",
+          "group": "Tổ 1 (Mục tiêu Khối A)",
+          "avgScore": 7.5,
+          "attendance": "96%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs128-37",
+          "code": "HS12837",
+          "name": "Lý Quỳnh Hạnh",
+          "group": "Tổ 2 (Mục tiêu Khối A1)",
+          "avgScore": 8.5,
+          "attendance": "97%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs128-38",
+          "code": "HS12838",
+          "name": "Lê Tuấn Quân",
+          "group": "Tổ 3 (Mục tiêu Khối D)",
+          "avgScore": 8.6,
+          "attendance": "98%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs128-39",
+          "code": "HS12839",
+          "name": "Huỳnh Bích Uyên",
+          "group": "Tổ 4 (Đánh giá năng lực)",
+          "avgScore": 7.9,
+          "attendance": "99%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        },
+        {
+          "id": "hs-hs128-40",
+          "code": "HS12840",
+          "name": "Võ Văn An",
+          "group": "Tổ 1 (Mục tiêu Khối A)",
+          "avgScore": 4.5,
+          "attendance": "92%",
+          "status": "Cần hỗ trợ",
+          "needSupport": true,
+          "notes": "Cần củng cố kỹ năng giải toán vận dụng và trắc nghiệm đúng/sai"
+        },
+        {
+          "id": "hs-hs128-41",
+          "code": "HS12841",
+          "name": "Đỗ Mai Hạnh",
+          "group": "Tổ 2 (Mục tiêu Khối A1)",
+          "avgScore": 7.9,
+          "attendance": "93%",
+          "status": "Giỏi",
+          "needSupport": false,
+          "notes": "Tiếp thu bài nhanh, chăm chỉ và chủ động"
+        },
+        {
+          "id": "hs-hs128-42",
+          "code": "HS12842",
+          "name": "Dương Quốc Quân",
+          "group": "Tổ 3 (Mục tiêu Khối D)",
+          "avgScore": 7,
+          "attendance": "94%",
+          "status": "Khá",
+          "needSupport": false,
+          "notes": "Nắm vững lý thuyết, cần rèn luyện phản xạ tính toán"
+        }
+      ]
+    }
+  ],
+  "lessonPlans": [
+    {
+      "id": "lp-01",
+      "title": "Kế hoạch bài dạy: Hàm số bậc hai và đồ thị",
+      "subject": "Toán học",
+      "grade": "10",
+      "textbook": "Kết nối tri thức với cuộc sống",
+      "duration": "90 phút (2 tiết)",
+      "objectives": "Học sinh nhận biết được định nghĩa hàm số bậc hai, vẽ được đồ thị và ứng dụng giải bài toán thực tế quỹ đạo chuyển động.",
+      "status": "Đã duyệt",
+      "createdAt": "2025-02-15T08:30:00Z",
+      "content": {
+        "mucTieu": {
+          "kienThuc": "Nắm vững dạng hàm số y = ax² + bx + c (a ≠ 0), tọa độ đỉnh I(-b/2a; -Δ/4a), trục đối xứng x = -b/2a, hướng bề lõm.",
+          "nangLuc": "Năng lực mô hình hóa toán học, năng lực giải quyết vấn đề toán học qua bài toán ném bóng.",
+          "phamChat": "Chăm chỉ, trung thực, có tinh thần trách nhiệm trong làm việc nhóm."
+        },
+        "chuanBi": {
+          "giaoVien": "Kế hoạch bài dạy, bài trình chiếu Geogebra, phiếu học tập số 1, 2, ứng dụng VY EDU AI.",
+          "hocSinh": "SGK Toán 10, vở ghi, thước kẻ, điện thoại/máy tính bảng kết nối internet để làm bài trắc nghiệm."
+        },
+        "tienTrinh": [
+          {
+            "buoc": "Hoạt động 1: Khởi động (10 phút)",
+            "mucTieu": "Tạo hứng thú, gợi mở mô hình chuyển động của cầu Cổng Vàng và quỹ đạo quả bóng rổ.",
+            "noiDung": "Xem video ngắn quả bóng rổ ném vào rổ, nhận xét đường cong quỹ đạo.",
+            "sanPham": "Câu trả lời của các nhóm về dạng đường cong parabol.",
+            "toChuc": "GV chiếu hình ảnh, chia 4 tổ thảo luận nhanh 3 phút, đại diện trình bày."
+          },
+          {
+            "buoc": "Hoạt động 2: Hình thành kiến thức (35 phút)",
+            "mucTieu": "Xây dựng định nghĩa, đỉnh, trục đối xứng và bảng biến thiên.",
+            "noiDung": "Thực hiện Phiếu học tập số 1, khảo sát đồ thị bằng thanh trượt Geogebra.",
+            "sanPham": "Bảng biến thiên hoàn chỉnh và kết luận về tọa độ đỉnh.",
+            "toChuc": "Giao nhiệm vụ theo nhóm chuyên gia và nhóm mảnh ghép."
+          },
+          {
+            "buoc": "Hoạt động 3: Luyện tập (25 phút)",
+            "mucTieu": "Vẽ đồ thị và xác định các tham số.",
+            "noiDung": "Giải các bài tập ví dụ trong SGK và chơi trò chơi Ghép đôi kiến thức trên VY EDU AI.",
+            "sanPham": "Bài làm trên phiếu học tập của học sinh.",
+            "toChuc": "Học sinh làm việc cá nhân, sau đó đổi chéo bài chấm theo đáp án mẫu."
+          },
+          {
+            "buoc": "Hoạt động 4: Vận dụng (15 phút)",
+            "mucTieu": "Mô hình hóa bài toán cổng parabol ngõ vào trường THPT số 1 Tuy Phước.",
+            "noiDung": "Tính chiều cao tối đa của xe tải có thể chui lọt cổng trường hình parabol rộng 8m cao 5m.",
+            "sanPham": "Báo cáo giải pháp mô hình hóa của nhóm.",
+            "toChuc": "Giao nhiệm vụ về nhà và hoàn thành trên hệ thống VY EDU AI."
+          }
+        ],
+        "danhGia": "Đánh giá thường xuyên thông qua quan sát sản phẩm nhóm và điểm trắc nghiệm nhanh 5 câu trên VY EDU AI."
+      }
+    }
+  ],
+  "slideDecks": [
+    {
+      "id": "sd-01",
+      "title": "Bài trình chiếu: Hàm số bậc hai và Ứng dụng thực tế",
+      "subject": "Toán học",
+      "grade": "10",
+      "slideCount": 6,
+      "createdAt": "2025-02-18T10:00:00Z",
+      "slides": [
+        {
+          "slideIndex": 1,
+          "title": "HÀM SỐ BẬC HAI VÀ ĐỒ THỊ",
+          "subtitle": "Chương trình GDPT 2018 - Toán 10 | Cô Nguyễn Thị Minh Vy",
+          "type": "title",
+          "bullets": [
+            "Trường THPT số 1 Tuy Phước",
+            "Năm học 2024 - 2025",
+            "Khám phá vẻ đẹp của Parabol trong tự nhiên và kiến trúc"
+          ],
+          "teacherNotes": "Chào cả lớp, kiểm tra sĩ số và tạo không khí hứng khởi đầu giờ."
+        },
+        {
+          "slideIndex": 2,
+          "title": "MỤC TIÊU TIẾT HỌC",
+          "subtitle": "Kiến thức & Năng lực cần đạt",
+          "type": "objectives",
+          "bullets": [
+            "Nhận biết định nghĩa hàm số bậc hai y = ax² + bx + c (a ≠ 0)",
+            "Xác định tọa độ đỉnh, trục đối xứng và hướng bề lõm parabol",
+            "Lập bảng biến thiên và vẽ phác đồ thị",
+            "Vận dụng giải thích chuyển động thực tế"
+          ],
+          "teacherNotes": "Nhấn mạnh 4 yêu cầu cần đạt theo chuẩn bộ GD&ĐT."
+        },
+        {
+          "slideIndex": 3,
+          "title": "KHỞI ĐỘNG: ĐƯỜNG CONG KỲ DIỆU",
+          "subtitle": "Tình huống thực tế",
+          "type": "warmup",
+          "bullets": [
+            "Quỹ đạo quả bóng ném vào rổ",
+            "Dòng nước phun từ đài phun nước công viên",
+            "Cổng vòm parabol ngõ vào trường Tuy Phước",
+            "Câu hỏi thảo luận: Những đường cong này có đặc điểm chung gì?"
+          ],
+          "teacherNotes": "Cho học sinh 2 phút phát biểu tự do, ghi nhận từ khóa."
+        },
+        {
+          "slideIndex": 4,
+          "title": "KIẾN THỨC TRỌNG TÂM: TỌA ĐỘ ĐỈNH & TRỤC ĐỐI XỨNG",
+          "subtitle": "Đồ thị Parabol (P)",
+          "type": "core",
+          "bullets": [
+            "Đỉnh I có tọa độ: I(-b/2a; -Δ/4a)",
+            "Trục đối xứng: đường thẳng x = -b/2a",
+            "Bề lõm quay lên trên khi a > 0 (điểm cực tiểu)",
+            "Bề lõm quay xuống dưới khi a < 0 (điểm cực đại)"
+          ],
+          "teacherNotes": "Chiếu hình minh họa hai trường hợp a > 0 và a < 0 rõ ràng."
+        },
+        {
+          "slideIndex": 5,
+          "title": "CÂU HỎI TƯƠNG TÁC NHANH",
+          "subtitle": "Kiểm tra mức độ nhận biết",
+          "type": "interactive",
+          "bullets": [
+            "Cho hàm số y = 2x² - 4x + 1. Tọa độ đỉnh I là?",
+            "A. I(1; -1)",
+            "B. I(-1; 7)",
+            "C. I(2; 1)",
+            "D. I(-2; 17)",
+            "Đáp án chính xác: A. I(1; -1)"
+          ],
+          "teacherNotes": "Gọi nhanh một học sinh tổ 2 giải thích cách tính hoành độ đỉnh x = -(-4)/(2*2) = 1."
+        },
+        {
+          "slideIndex": 6,
+          "title": "TỔNG KẾT & NHIỆM VỤ VỀ NHÀ",
+          "subtitle": "Học tập liên tục cùng VY EDU AI",
+          "type": "summary",
+          "bullets": [
+            "Ghi nhớ: Công thức tọa độ đỉnh và trục đối xứng",
+            "Làm bài tập số 1, 2, 3 SGK trang 45",
+            "Truy cập VY EDU AI tham gia thử thách \"Đường lên đỉnh tri thức\"",
+            "Xem trước mục 3: Ứng dụng thực tế của Parabol"
+          ],
+          "teacherNotes": "Nhắc nhở học sinh nộp bài tập tình huống trước 20h ngày mai."
+        }
+      ]
+    }
+  ],
+  "questionBank": [
+    {
+      "id": "qb-01",
+      "subject": "Toán học",
+      "grade": "10",
+      "topic": "Hàm số bậc hai",
+      "level": "Nhận biết",
+      "type": "multiple-choice",
+      "question": "Trục đối xứng của đồ thị hàm số y = ax² + bx + c (với a ≠ 0) là đường thẳng nào sau đây?",
+      "options": [
+        "x = -b / (2a)",
+        "x = b / (2a)",
+        "y = -Δ / (4a)",
+        "x = -b / a"
+      ],
+      "correctAnswer": "x = -b / (2a)",
+      "explanation": "Theo lý thuyết hàm số bậc hai, đồ thị parabol có trục đối xứng là đường thẳng vuông góc với trục Ox tại hoành độ đỉnh x = -b/(2a).",
+      "approved": true
+    },
+    {
+      "id": "qb-02",
+      "subject": "Toán học",
+      "grade": "10",
+      "topic": "Hàm số bậc hai",
+      "level": "Thông hiểu",
+      "type": "multiple-choice",
+      "question": "Cho hàm số y = x² - 4x + 3. Điểm nào sau đây là đỉnh của parabol?",
+      "options": [
+        "I(2; -1)",
+        "I(-2; 15)",
+        "I(1; 0)",
+        "I(4; 3)"
+      ],
+      "correctAnswer": "I(2; -1)",
+      "explanation": "Hoành độ đỉnh: x = -b/(2a) = -(-4)/(2*1) = 2. Tung độ y = 2² - 4(2) + 3 = 4 - 8 + 3 = -1. Vậy I(2; -1).",
+      "approved": true
+    },
+    {
+      "id": "qb-03",
+      "subject": "Toán học",
+      "grade": "10",
+      "topic": "Hàm số bậc hai",
+      "level": "Vận dụng",
+      "type": "multiple-choice",
+      "question": "Một quả bóng được đá lên từ mặt đất với độ cao h(t) = -5t² + 20t (m), t là thời gian tính bằng giây. Độ cao cực đại mà quả bóng đạt được là bao nhiêu mét?",
+      "options": [
+        "20 mét",
+        "25 mét",
+        "15 mét",
+        "10 mét"
+      ],
+      "correctAnswer": "20 mét",
+      "explanation": "Hàm số đạt giá trị cực đại tại đỉnh t = -20 / (2 * (-5)) = 2 giây. Khi đó h(2) = -5(4) + 20(2) = -20 + 40 = 20 mét.",
+      "approved": true
+    },
+    {
+      "id": "qb-04",
+      "subject": "Toán học",
+      "grade": "10",
+      "topic": "Hàm số bậc hai",
+      "level": "Nhận biết",
+      "type": "true-false",
+      "question": "Xét tính đúng/sai của mệnh đề: \"Đồ thị hàm số y = -2x² + 3x - 1 có bề lõm quay lên trên\".",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "correctAnswer": "Sai",
+      "explanation": "Do hệ số a = -2 < 0 nên parabol có bề lõm quay xuống dưới (hướng xuống).",
+      "approved": true
+    },
+    {
+      "id": "qb-05",
+      "subject": "Toán học",
+      "grade": "10",
+      "topic": "Hàm số bậc hai",
+      "level": "Vận dụng cao",
+      "type": "short-answer",
+      "question": "Tìm tất cả các giá trị của m để hàm số y = x² - 2mx + m + 2 luôn đồng biến trên khoảng (2; +∞). Viết kết quả dưới dạng m ≤ k với k là số nguyên.",
+      "options": [],
+      "correctAnswer": "m <= 2",
+      "explanation": "Hoành độ đỉnh là x_0 = m. Hàm số bậc hai với a = 1 > 0 đồng biến trên khoảng (m; +∞). Để đồng biến trên (2; +∞) thì (2; +∞) ⊆ (m; +∞) ⇔ m ≤ 2.",
+      "approved": true
+    }
+  ],
+  "tests": [
+    {
+      "id": "test-101",
+      "title": "Kiểm tra 15 phút: Hàm số bậc hai (Lớp 10)",
+      "subject": "Toán học",
+      "grade": "10",
+      "durationMinutes": 15,
+      "classId": "cls-10a1",
+      "className": "Lớp 10A1",
+      "questionCount": 5,
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "status": "Đang diễn ra",
+      "submissionsCount": 6,
+      "avgScore": 7.4,
+      "questions": [
+        {
+          "id": "tq-1",
+          "question": "Hàm số y = ax² + bx + c có bề lõm quay lên trên khi nào?",
+          "options": [
+            "a > 0",
+            "a < 0",
+            "b > 0",
+            "c > 0"
+          ],
+          "correctAnswer": "a > 0",
+          "explanation": "Hệ số a dương quy định nhánh parabol mở lên trên.",
+          "level": "Nhận biết"
+        },
+        {
+          "id": "tq-2",
+          "question": "Tọa độ đỉnh I của parabol y = x² - 6x + 5 là:",
+          "options": [
+            "I(3; -4)",
+            "I(-3; 32)",
+            "I(6; 5)",
+            "I(3; 4)"
+          ],
+          "correctAnswer": "I(3; -4)",
+          "explanation": "x = -(-6)/2 = 3; y = 9 - 18 + 5 = -4.",
+          "level": "Thông hiểu"
+        },
+        {
+          "id": "tq-3",
+          "question": "Trục đối xứng của parabol y = -3x² + 6x - 1 là đường thẳng:",
+          "options": [
+            "x = 1",
+            "x = -1",
+            "y = 2",
+            "x = 2"
+          ],
+          "correctAnswer": "x = 1",
+          "explanation": "x = -b/(2a) = -6/(2*(-3)) = 1.",
+          "level": "Nhận biết"
+        },
+        {
+          "id": "tq-4",
+          "question": "Giá trị nhỏ nhất của hàm số y = 2x² - 8x + 10 đạt được tại x bằng:",
+          "options": [
+            "x = 2",
+            "x = -2",
+            "x = 4",
+            "x = 0"
+          ],
+          "correctAnswer": "x = 2",
+          "explanation": "Do a = 2 > 0 nên hàm số đạt GTNN tại đỉnh x = -(-8)/(2*2) = 2.",
+          "level": "Thông hiểu"
+        },
+        {
+          "id": "tq-5",
+          "question": "Một nông dân muốn rào một khu vườn hình chữ nhật cạnh bờ sông với 40m lưới rào (không rào cạnh bờ sông). Diện tích lớn nhất của khu vườn là bao nhiêu m²?",
+          "options": [
+            "200 m²",
+            "100 m²",
+            "400 m²",
+            "150 m²"
+          ],
+          "correctAnswer": "200 m²",
+          "explanation": "Gọi chiều rộng hai bên là x (m), chiều dài là 40 - 2x. Diện tích S(x) = x(40 - 2x) = -2x² + 40x. Đạt GTLN tại x = -40/(2*(-2)) = 10. Khi đó S_max = 10 * 20 = 200 m².",
+          "level": "Vận dụng"
+        }
+      ],
+      "results": [
+        {
+          "studentId": "hs-101",
+          "studentName": "Nguyễn Văn An",
+          "score": 8,
+          "submittedAt": "2025-02-20T09:15:00Z",
+          "answers": {
+            "tq-1": "a > 0",
+            "tq-2": "I(3; -4)",
+            "tq-3": "x = 1",
+            "tq-4": "x = 2",
+            "tq-5": "100 m²"
+          }
+        },
+        {
+          "studentId": "hs-102",
+          "studentName": "Trần Thị Mai",
+          "score": 10,
+          "submittedAt": "2025-02-20T09:14:20Z",
+          "answers": {
+            "tq-1": "a > 0",
+            "tq-2": "I(3; -4)",
+            "tq-3": "x = 1",
+            "tq-4": "x = 2",
+            "tq-5": "200 m²"
+          }
+        },
+        {
+          "studentId": "hs-103",
+          "studentName": "Lê Hoàng Nam",
+          "score": 6,
+          "submittedAt": "2025-02-20T09:15:40Z",
+          "answers": {
+            "tq-1": "a > 0",
+            "tq-2": "I(-3; 32)",
+            "tq-3": "x = 1",
+            "tq-4": "x = -2",
+            "tq-5": "200 m²"
+          }
+        },
+        {
+          "studentId": "hs-104",
+          "studentName": "Phạm Quỳnh Anh",
+          "score": 8,
+          "submittedAt": "2025-02-20T09:14:50Z",
+          "answers": {
+            "tq-1": "a > 0",
+            "tq-2": "I(3; -4)",
+            "tq-3": "x = 1",
+            "tq-4": "x = 2",
+            "tq-5": "100 m²"
+          }
+        },
+        {
+          "studentId": "hs-105",
+          "studentName": "Võ Minh Khang",
+          "score": 4,
+          "submittedAt": "2025-02-20T09:16:00Z",
+          "answers": {
+            "tq-1": "a < 0",
+            "tq-2": "I(3; -4)",
+            "tq-3": "x = -1",
+            "tq-4": "x = -2",
+            "tq-5": "100 m²"
+          }
+        },
+        {
+          "studentId": "hs-106",
+          "studentName": "Bùi Thảo Vy",
+          "score": 10,
+          "submittedAt": "2025-02-20T09:13:50Z",
+          "answers": {
+            "tq-1": "a > 0",
+            "tq-2": "I(3; -4)",
+            "tq-3": "x = 1",
+            "tq-4": "x = 2",
+            "tq-5": "200 m²"
+          }
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "id": "res-01",
+      "title": "Giáo án chuyên đề: Ứng dụng Parabol trong thực tiễn",
+      "type": "Giáo án",
+      "grade": "10",
+      "subject": "Toán học",
+      "format": "DOCX / PDF",
+      "author": "Cô Nguyễn Thị Minh Vy",
+      "downloads": 48,
+      "updatedAt": "2025-02-20",
+      "tags": [
+        "GDPT 2018",
+        "Kế hoạch bài dạy",
+        "Công văn 5512"
+      ]
+    },
+    {
+      "id": "res-02",
+      "title": "Bài trình chiếu: Đồ thị hàm số bậc hai Geogebra",
+      "type": "Bài trình chiếu",
+      "grade": "10",
+      "subject": "Toán học",
+      "format": "PPTX / HTML5",
+      "author": "Cô Nguyễn Thị Minh Vy",
+      "downloads": 62,
+      "updatedAt": "2025-02-19",
+      "tags": [
+        "Slide tương tác",
+        "Trực quan hóa"
+      ]
+    },
+    {
+      "id": "res-03",
+      "title": "Phiếu học tập: Khảo sát chuyển động ném xiên",
+      "type": "Phiếu học tập",
+      "grade": "10",
+      "subject": "Vật lí - Toán tích hợp",
+      "format": "PDF",
+      "author": "Cô Nguyễn Thị Minh Vy",
+      "downloads": 35,
+      "updatedAt": "2025-02-18",
+      "tags": [
+        "STEM",
+        "Liên môn"
+      ]
+    },
+    {
+      "id": "res-04",
+      "title": "Ngân hàng 100 câu trắc nghiệm đúng/sai Toán 10 mới",
+      "type": "Đề kiểm tra",
+      "grade": "10",
+      "subject": "Toán học",
+      "format": "DOCX",
+      "author": "Cô Nguyễn Thị Minh Vy",
+      "downloads": 112,
+      "updatedAt": "2025-02-17",
+      "tags": [
+        "Định dạng 2025",
+        "Trắc nghiệm đúng sai"
+      ]
+    }
+  ],
+  "evidenceDossier": {
+    "title": "Hồ sơ minh chứng: Ứng dụng trợ lý AI trong dạy học phát triển năng lực học sinh THPT",
+    "school": "Trường THPT số 1 Tuy Phước",
+    "teacher": "Nguyễn Thị Minh Vy",
+    "period": "Năm học 2024 - 2025",
+    "goals": [
+      "Nâng cao hiệu quả chuẩn bị kế hoạch bài dạy theo Công văn 5512/BGDĐT, giảm 60% thời gian soạn bài thủ công.",
+      "Đa dạng hóa hình thức tổ chức lớp học bằng 6 trò chơi tương tác giáo dục số hóa.",
+      "Cá nhân hóa lộ trình ôn tập và hỗ trợ kịp thời học sinh có kết quả dưới 6.5.",
+      "Phát triển năng lực tự học và tư duy giải quyết vấn đề của học sinh THPT."
+    ],
+    "realMetrics": {
+      "totalAiLessonsGenerated": 24,
+      "totalQuestionsCreated": 380,
+      "interactiveGameSessions": 142,
+      "studentParticipationRate": "96.8%",
+      "avgScoreImprovement": "+1.35 điểm (so với đầu học kỳ)",
+      "teacherTimeSavedPerWeek": "7.5 giờ/tuần",
+      "satisfactionRate": "94.2% học sinh yêu thích tiết học"
+    },
+    "surveyResults": {
+      "beforeAI": {
+        "interestInSubject": 62.5,
+        "confidenceInProblemSolving": 54,
+        "homeworkCompletionRate": 78.2
+      },
+      "afterAI": {
+        "interestInSubject": 91.8,
+        "confidenceInProblemSolving": 85.4,
+        "homeworkCompletionRate": 97
+      }
+    },
+    "activityLogs": [
+      {
+        "date": "2025-02-25",
+        "action": "Tổ chức tiết học ứng dụng trò chơi Đấu trường trí tuệ cho lớp 10A1",
+        "category": "Hoạt động dạy học"
+      },
+      {
+        "date": "2025-02-22",
+        "action": "Tạo kế hoạch bài dạy AI theo CV 5512 chuyên đề Hàm số bậc hai",
+        "category": "Thiết kế giáo án"
+      },
+      {
+        "date": "2025-02-20",
+        "action": "Xuất báo cáo phân tích câu hỏi kiểm tra 15 phút và gửi gợi ý ôn tập cho 3 học sinh",
+        "category": "Cá nhân hóa"
+      },
+      {
+        "date": "2025-02-15",
+        "action": "Tổ chức sinh hoạt chuyên môn tổ Toán - Tin chia sẻ kinh nghiệm sử dụng VY EDU AI",
+        "category": "Sinh hoạt chuyên môn"
+      }
+    ]
+  }
+}

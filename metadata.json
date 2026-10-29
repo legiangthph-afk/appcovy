@@ -1,0 +1,6 @@
+{
+  "name": "VY EDU AI – Trợ lý giảng dạy thông minh",
+  "description": "Hệ sinh thái trợ lý giảng dạy AI cho cô Nguyễn Thị Minh Vy – Trường THPT số 1 Tuy Phước, phục vụ chương trình GDPT 2018 với 12 module sư phạm toàn diện.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
